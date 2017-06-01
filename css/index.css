@@ -1,0 +1,92 @@
+.version.index /* version checker */
+{
+	color: #00000C;
+	background-color: #50D4FA;
+}
+
+.html
+{
+	background: #000000 url("../images/bild.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u75-4
+{
+	z-index: 2;
+	width: 563px;
+	min-height: 82px;
+	background-color: transparent;
+	font-size: 48px;
+	line-height: 58px;
+	color: #FFFFFF;
+	font-family: Times, Times New Roman, Georgia, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 266px;
+	left: 313px;
+}
+
+#pu78-4
+{
+	width: 0.01px;
+	padding-bottom: 7px;
+	margin: 407px -10000px -6px 427px;
+}
+
+#u78-4
+{
+	z-index: 6;
+	-webkit-transform: matrix(0,-1,1,0,7,93);
+	-ms-transform: matrix(0,-1,1,0,7,93);
+	transform: matrix(0,-1,1,0,7,93);
+	position: relative;
+	width: 99px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 5px;
+}
+
+#u85-4
+{
+	z-index: 10;
+	-webkit-transform: matrix(0,-1,1,0,1,87);
+	-ms-transform: matrix(0,-1,1,0,1,87);
+	transform: matrix(0,-1,1,0,1,87);
+	position: relative;
+	width: 87px;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u78-4_img,#u85-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -407px;
+}
+

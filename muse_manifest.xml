@@ -1,0 +1,29 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="soma.com" resolutions="1x" timestamp="1496328838303">
+  <folder name="assets">
+    <file name="microsoft-word-dokument-(neu).pdf" crc="530573387" seo="true" mt="1478339936000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="206623994" ref="index"/>
+    <file name="band.css" crc="317658509" ref="band"/>
+    <file name="site.css" crc="318567213" ref="site"/>
+    <file name="videos.css" crc="281605428" ref="videos"/>
+    <file name="kontskt.css" crc="59711838" ref="kontskt"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:site:kontskt:videos:band"/>
+    <file name="museutils.js" crc="183364071" ref="index:site:kontskt:videos:band"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:site:kontskt:videos:band"/>
+  </folder>
+  <folder name="images">
+    <file name="u78-4.png" crc="4218997264" ref="index"/>
+    <file name="u85-4.png" crc="4257109340" ref="index"/>
+    <file name="concert.jpg" crc="3803630579" seo="true" ref="site"/>
+    <file name="bild.jpg" crc="3815411005" ref="index"/>
+  </folder>
+  <file name="index.html" crc="385452321" seo="true" mt="1496328831879" redirect="true"/>
+  <file name="site.html" crc="3824128984" seo="true" mt="1496327817212" redirect="true"/>
+  <file name="kontskt.html" crc="3773402266" seo="true" mt="1496327830222" redirect="true"/>
+  <file name="videos.html" crc="104180247" seo="true" mt="1496327849220" redirect="true"/>
+  <file name="band.html" crc="483678088" seo="true" mt="1496327838717" redirect="true"/>
+</manifest>

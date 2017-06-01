@@ -1,0 +1,101 @@
+.version.band /* version checker */
+{
+	color: #000012;
+	background-color: #EF158D;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 846px;
+	min-height: 170px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 24px 80px 306px 34px;
+}
+
+#pu126-4
+{
+	width: 0.01px;
+}
+
+#u126-4
+{
+	z-index: 10;
+	width: 60px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u124-4
+{
+	z-index: 2;
+	width: 55px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	left: 79px;
+}
+
+#u125-4
+{
+	z-index: 6;
+	width: 55px;
+	min-height: 35px;
+	background-color: transparent;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	left: 143px;
+}
+
+#u131-14
+{
+	z-index: 14;
+	width: 837px;
+	min-height: 63px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-style: italic;
+	margin-left: 9px;
+	margin-top: 72px;
+	position: relative;
+}
+
+#u131-2
+{
+	font-weight: normal;
+}
+
+#u131,#u131-4,#u131-6,#u131-8,#u131-11
+{
+	font-weight: bold;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
